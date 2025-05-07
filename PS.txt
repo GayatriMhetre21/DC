@@ -1,0 +1,23 @@
+Q1..
+PROBLEM STATEMENT: Design a distributed application using RPC for remote
+computation where client submits an integer value to the server and server calculates
+factorial and returns the result to the client program.
+
+Q2..
+PROBLEM STATEMENT: Design a distributed application using RMI for remote
+computation where client submits two strings to the server and server returns the
+concatenation of the given strings.
+
+Q3..
+PROBLEM STATEMENT: Design a distributed application using MapReduce under
+Hadoop for: a) Character counting in a given text file. b) Counting no. of occurrences of
+every word in a given text file.
+
+Q4..
+PROBLEM STATEMENT: Write code to simulate requests coming from clients and
+distribute them among the servers using the load balancing algorithms.
+
+Q5..
+PROBLEM STATEMENT: Design and develop a distributed application to find the
+coolest/hottest year from the available weather data. Use weather data from the Internet
+and process it using MapReduce.
